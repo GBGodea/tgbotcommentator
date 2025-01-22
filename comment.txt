@@ -1,0 +1,7 @@
+channels.db - sqllite БД, внутри которых можно настроить каналы видом
+id - просто любой целочисленный id
+title - просто имя канала, также можно ввести любое
+username - ссылка на канал, без @ https://telegram... просто имя канала https://t.me/ddwadwa23123 - то есть пишу только ddwadwa23123
+
+Используется бесплатный GTP
+https://github.com/xtekky/gpt4free
